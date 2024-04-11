@@ -1,0 +1,5 @@
+print("Evaluación N°1 CCNA DEVNET")
+nombre = input("Por favor, ingresa tu nombre: ")
+apellido = input("Por favor, ingresa tu apellido: ")
+seccion = input("Por favor, ingresa tu sección: ")
+sede = input("Por favor, ingresa tu sede: ")
